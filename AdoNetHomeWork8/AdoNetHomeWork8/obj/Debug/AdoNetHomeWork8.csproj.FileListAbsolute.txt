@@ -1,0 +1,13 @@
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\library.exe.config
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\library.exe
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\library.pdb
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\EntityFramework.dll
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\EntityFramework.xml
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\obj\Debug\AdoNetHomeWork8.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\obj\Debug\AdoNetHomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\obj\Debug\AdoNetHomeWork8.csproj.CopyComplete
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\obj\Debug\library.exe
+C:\Users\ЖаксылыковО\Desktop\liba-master\library\obj\Debug\library.pdb
